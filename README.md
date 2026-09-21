@@ -9,19 +9,25 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 ### Latest USBSID-Pico info
 |          | Release             | Tagged                   | Build |
 | -------  | :-----             | :-----                 | :----- |
-| firmware  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
-| configtool  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
-| player  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
+| firmware  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][3]][C] |
+| configtool  | [![guirelease][4]][D] | [![guitag][5]][E]       | [![guibuild][6]][C] |
+| player  | [![guirelease][4]][D] | [![guitag][5]][E]       | [![fwbuild][4
+6]][F] |
 
 
-[1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico
+[1]:
+https://img.shields.io/github/v/release/LouDnl/USBSID-Pico
 [2]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Pico
-[3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico/build.yml?branch=master
-[4]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico/build.yml?branch=dev
+[3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico/build.yml?branch=dev
+[6]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Configtool/ci-tagged-build-or-release.yml?branch=master
+[4]: https://img.shields.io/github/v/release/LouDnl/USBSID-Configtool
+[5]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Configtool
+[7]: 
+
 [A]: https://github.com/LouDnl/USBSID-Pico/actions/workflows/release.yml
 [B]: https://github.com/LouDnl/USBSID-Pico/actions/workflows/tagged_build.yml
 [C]: https://github.com/LouDnl/USBSID-Pico/actions/workflows/build.yml
-[D]: https://github.com/LouDnl/USBSID-Pico/commits/master/
+[F]: https://github.com/LouDnl/USBSID-Configtool/actions/workflows/ci-tagged-build-or-release.yml
 
 <!--
 **LouDnl/LouDnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
