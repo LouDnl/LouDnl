@@ -9,7 +9,7 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 ### Latest info
 |          | Release             | Tagged                   | Build |
 | -------  | :-----             | :-----                 | :----- |
-| firmware  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][3]][C] |
+| firmware  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
 
 
 [1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico
