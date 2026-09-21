@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi
+Welcome, I am LouD, short for loudness, thanks for visiting my profile.  
+
+My main interests are retro hardware, reverse engineering and writing code for either.
+
+Have a look at USBSID-Pico or some of my other projects.  
+If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBSID-Pico came to life.
 
 <!--
 **LouDnl/LouDnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
