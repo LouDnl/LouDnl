@@ -1,5 +1,5 @@
-## Hi
-Welcome, I am LouD, short for loudness, thanks for visiting my profile.  
+## Welcome
+I am LouD, short for loudness, thanks for visiting my profile.  
 
 My main interests are retro hardware, reverse engineering and writing code for either.
 
