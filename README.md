@@ -6,10 +6,12 @@ My main interests are retro hardware, reverse engineering and writing code for e
 Have a look at USBSID-Pico or some of my other projects.  
 If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBSID-Pico came to life.
 
-### Latest info
+### Latest USBSID-Pico info
 |          | Release             | Tagged                   | Build |
 | -------  | :-----             | :-----                 | :----- |
 | firmware  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
+| configtool  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
+| player  | [![fwrelease][1]][A] | [![fwtag][2]][B]       | [![fwbuild][4]][C] |
 
 
 [1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico
