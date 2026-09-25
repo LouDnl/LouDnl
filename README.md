@@ -12,7 +12,7 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 | [firmware][1]   | [![fwrelease][A1]][AA]  | [![fwtag][A2]][AB]  | [![fwbuild][A3]][AC]  | [![fwlicense][A4]][AD]  |
 | [configtool][2] | [![guirelease][B1]][BA] | [![guitag][B2]][BA] | [![guibuild][B3]][BA] | [![guilicense][B4]][BB] |
 | [player][3]     | [![plrelease][C1]][CA]  | [![pltag][C2]][CB]  | [![plbuild][C3]][CB]  | [![pllicense][C4]][CC]  |
-| [driver][4]     | [![drrelease][D1]][DA]  | [![drtag][D2]][DB]  | [![drbuild][D3]][DB]  | [![drlicense][D4]][DD]  |
+| [driver][4]     | [![drrelease][D1]][DA]  | [![drtag][D2]][DB]  | [![drbuild][D3]][DB]  | [![drlicense][D4]][DE]  |
 
 [1]: https://github.com/LouDnl/USBSID-Pico
 [2]: https://github.com/LouDnl/USBSID-Configtool
