@@ -12,12 +12,13 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 | [firmware][1]   | [![fwrelease][A1]][AA]  | [![fwtag][A2]][AB]  | [![fwbuild][A3]][AC]  | [![fwlicense][A4]][AD]  |
 | [configtool][2] | [![guirelease][B1]][BA] | [![guitag][B2]][BA] | [![guibuild][B3]][BA] | [![guilicense][B4]][BB] |
 | [player][3]     | [![plrelease][C1]][CA]  | [![pltag][C2]][CB]  | [![plbuild][C3]][CB]  | [![pllicense][C4]][CC]  |
-| [driver][4]     | [![drrelease][D1]][DA]  | [![drtag][D2]][DB]  | [![drbuild][D3]][DC]  | [![drlicense][D4]][DD]  |
+| [driver][4]     | [![drrelease][D1]][DA]  | [![drtag][D2]][DB]  | [![drbuild][D3]][DB]  | [![drlicense][D4]][DD]  |
 
 [1]: https://github.com/LouDnl/USBSID-Pico
-[2]: https://github.com/LouDnl/USBSID-Pico-driver
-[3]: https://github.com/LouDnl/USBSID-Configtool
-[4]: https://github.com/LouDnl/USBSID-Player
+[2]: https://github.com/LouDnl/USBSID-Configtool
+[3]: https://github.com/LouDnl/USBSID-Player
+[4]: https://github.com/LouDnl/USBSID-Pico-driver
+[5]: https://github.com/LouDnl/USBSID-Pico-driver/tree/master/java/usbsid-usb-driver-library-java
 
 [A1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico
 [A2]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Pico
@@ -48,13 +49,14 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 
 [D1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico-driver
 [D2]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Pico-driver
-[D3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico-driver/build.yml?branch=dev
+[D3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico-driver/build-native.yml?branch=dev
 [D4]: https://shields.io/github/license/LouDnl/USBSID-Pico-driver
 
-[DA]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/release.yml
-[DB]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/tagged_build.yml
-[DC]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/build.yml
-[DD]: https://github.com/LouDnl/USBSID-Pico-driver/blob/master/LICENSE
+[DA]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/release-native.yml
+[DB]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/build-native.yml
+[DC]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/release-java.yml
+[DD]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/build-java.yml
+[DE]: https://github.com/LouDnl/USBSID-Pico-driver/blob/master/LICENSE
 
 <!--
 **LouDnl/LouDnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
