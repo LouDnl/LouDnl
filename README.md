@@ -49,7 +49,7 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 
 [D1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico-driver
 [D2]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Pico-driver
-[D3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico-driver/build-native.yml?branch=dev
+[D3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico-driver/build-native.yml?branch=master
 [D4]: https://shields.io/github/license/LouDnl/USBSID-Pico-driver
 
 [DA]: https://github.com/LouDnl/USBSID-Pico-driver/actions/workflows/release-native.yml
