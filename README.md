@@ -58,7 +58,7 @@ If you are interested I have a [blog](https://usbsid.loudai.nl/blog) on how USBS
 [DE]: https://github.com/LouDnl/USBSID-Pico-driver/blob/master/LICENSE
 
 [E1]: https://img.shields.io/github/v/release/LouDnl/USBSID-Pico-driver?filter=java*
-[E2]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Pico-driver?filter=v*
+[E2]: https://img.shields.io/github/v/tag/LouDnl/USBSID-Pico-driver?filter=java*
 [E3]: https://img.shields.io/github/actions/workflow/status/LouDnl/USBSID-Pico-driver/build-java.yml?branch=master
 
 [EA]: https://github.com/LouDnl/USBSID-Pico-driver/releases?q=java&expanded=true
